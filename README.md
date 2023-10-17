@@ -1,2 +1,2 @@
 # truefalse
-Smallest portable implementations of true and false.
+Smallest multi-platform, portable implementations of true and false.
